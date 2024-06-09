@@ -51,7 +51,7 @@
         </nav>
         <div class="copyright text-center">
         &copy; 
-        Designed by <a href="#" target="_blank">Akilan for MYCO</a>.
+        Designed by <a href="#" target="_blank">Akilan for MyCOHub</a>.
       </div>
       </div>
     </footer>

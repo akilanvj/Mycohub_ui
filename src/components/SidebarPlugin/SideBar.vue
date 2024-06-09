@@ -7,7 +7,7 @@
       <div class="logo">
         <a href="#" class="simple-text logo__container">
             <div class="logo-img">
-                <img src="img/myco_logo_up.png" alt="">
+                <img src="img/myCo-hub.jpeg" alt="">
             </div>
           {{title}}
         </a>
@@ -43,7 +43,7 @@
     props: {
       title: {
         type: String,
-        default: 'MyCO BioTech Sequence'
+        default: 'MyCOHub'
       },
       backgroundColor: {
         type: String,

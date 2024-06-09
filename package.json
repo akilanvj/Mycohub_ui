@@ -1,8 +1,8 @@
 {
-  "name": "myco_ui",
+  "name": "my-co-hub-front-end",
   "version": "2.1.0",
   "private": true,
-  "description": "MyCO BioTech Sequencing Platform",
+  "description": "MyCOHub",
   "author": "Akilan Vijayakumar",
   "scripts": {
     "serve": "vue-cli-service serve --open",
@@ -12,6 +12,7 @@
     "dev": "vue-cli-service serve --open",
     "lint-fix": "vue-cli-service lint --fix"
   },
+  "proxy": "http://127.0.0.1:8000",
   "dependencies": {
     "bootstrap": "4.6.0",
     "cache-loader": "^4.1.0",

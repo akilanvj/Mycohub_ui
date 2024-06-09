@@ -5,7 +5,7 @@
         <div class="col-12">
           <card class="card-plain">
             <template slot="header">
-              <h4 class="card-title">All Uploaded Sequence Files</h4>
+              <h4 class="card-title">All Process Sequence Files - FASTQ.GZ to FASTA</h4>
               <p class="card-category"></p>
             </template>
             <div class="table-responsive">
@@ -22,7 +22,7 @@
 <script>
 import LTable from 'src/components/Table.vue'
 import Card from 'src/components/Cards/Card.vue'
-let tableColumns = ['Id', 'Folder', 'Filename', 'FileSize'];
+let tableColumns = ['Id', 'uploadeddate','Folder', 'Filename', 'FileSize'];
 let tableData = [];
 export default {
   components: {
@@ -31,7 +31,7 @@ export default {
   },
   data() {
     return {
-      tableColumns: ['Id', 'Name', 'Description'],
+      tableColumns: ['Id', 'Uploadeddate','Folder', 'Filename', 'FileSize'],
       tableData: [],
       table1: ''
     }

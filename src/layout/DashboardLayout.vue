@@ -8,11 +8,11 @@
       </sidebar-link>
       <sidebar-link to="/admin/user">
         <i class="nc-icon nc-circle-09"></i>
-        <p>User Profile</p>
+        <p>Upload Sequences</p>
       </sidebar-link>
       <sidebar-link to="/admin/table-list">
         <i class="nc-icon nc-notes"></i>
-        <p>Uploaded Files</p>
+        <p>All Files</p>
       </sidebar-link>
     </side-bar>
     <div class="main-panel">

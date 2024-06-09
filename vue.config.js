@@ -22,7 +22,7 @@ module.exports = {
     ]
   },
   pwa: {
-    name: 'MyCO Dashboard',
+    name: 'MyCOHub Dashboard',
     themeColor: '#344675',
     msTileColor: '#344675',
     appleMobileWebAppCapable: 'yes',

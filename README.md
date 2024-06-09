@@ -1,12 +1,12 @@
-# MyCO BioTech Sequence Analysis Platform Dashboard [![version][version-badge]][changelog] [![license][license-badge]][license]
+# MyCOHub BioTech Sequence Analysis Platform Dashboard [![version][version-badge]][changelog] [![license][license-badge]][license]
 
-> MyCO Admin dashboard developed based on light bootstrap dashboard UI template + vue-router
+> MyCOHub Admin dashboard developed based on light bootstrap dashboard UI template + vue-router
 
 ![](public/Dashboard.PNG)
 
 ## :rocket: Getting started
 
-MyCO Admin Dashboard is built on top of Bootstrap 4, Vuejs and Vue-router. To get started do the following steps:
+MyCOHub Admin Dashboard is built on top of Bootstrap 4, Vuejs and Vue-router. To get started do the following steps:
 
 1. Download the project
 2. Make sure you have node.js (https://nodejs.org/en/) installed
