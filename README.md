@@ -2,7 +2,13 @@
 
 > MyCOHub Admin dashboard developed based on light bootstrap dashboard UI template + vue-router
 
-![](public/Dashboard.PNG)
+>> File Upload
+
+![](public/Dashboard_File_Upload.png)
+
+>> List all uploaded files
+
+![](public/Dashboard_List_Files.png)
 
 ## :rocket: Getting started
 
